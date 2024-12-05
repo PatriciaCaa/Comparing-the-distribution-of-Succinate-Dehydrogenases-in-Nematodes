@@ -1,2 +1,2 @@
 # Comparing-the-distribution-of-Succinate-Dehydrogenases-in-Nematodes
-This was a mini project focused in the use of functions, as part of my academic program
+This repository contains the code and resources for a Mini Project conducted as part of the Programming module for my Bioinformatics degree, focusing on the use of functions, where we analyse the distribution of the multi-subunit enzyme Succinate Dehydrogenase in selected nematode species using Python and high-performance computing (HPC) tools.
