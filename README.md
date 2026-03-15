@@ -9,6 +9,15 @@ The project focuses on automating several steps required to analyse the distribu
 The script is organised into four main functionalities that streamline tasks such as data retrieval, processing, and preparation of HPC jobs.
 
 ---
+## Project Workflow
+
+The analysis follows a simple pipeline:
+
+1. Download protein FASTA datasets for selected nematode species from WormBase Parasite.
+2. Retrieve PFAM HMM profiles associated with Succinate Dehydrogenase.
+3. Run HMMER searches (hmmsearch) against the protein datasets.
+4. Parse the HMMER output files.
+5. Summarise the distribution of Succinate Dehydrogenase across species.
 
 ## Functionalities
 
